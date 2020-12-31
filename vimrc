@@ -19,6 +19,7 @@ autocmd Filetype go setlocal tabstop=4 shiftwidth=4 softtabstop=4
 set shiftwidth=4
 
 set nu
+set noswapfile " dont create swap files
 set undofile " Maintain undo history between sessions
 set undodir=~/.vim/undodir
 
