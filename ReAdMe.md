@@ -1,4 +1,4 @@
-#VIMRC for Go
+# VIMRC for Go
 
 당연히 .vimrc로 바꿔서 사용해야 합니다.
 
