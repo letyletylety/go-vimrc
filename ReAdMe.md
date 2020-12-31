@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/letyletylety/go-vimrc.git
 cd go-vimrc
-mv vimrc ~/.vimrc
+cp vimrc ~/.vimrc
 ```
 
 ---
@@ -15,6 +15,7 @@ mv vimrc ~/.vimrc
 [https://github.com/junegunn/vim-plug](https://github.com/junegunn/vim-plug)
 
 <blockquote>
+
 #### Vim
 
 ###### Unix
@@ -60,6 +61,7 @@ iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
 ```
 
 </blockquote>
+
 ---
 
 **키맵에서 au 로 시작하는 주석 2줄은 linux 기반 환경에서 캡스락과 esc를 바꾸는 방법입니다.**
